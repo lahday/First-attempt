@@ -75,6 +75,7 @@ a:link {
 }
 a:visited {
   color: #307986;
+  text-decoration: underline;
 }
 a:hover {
   color: orangered;
